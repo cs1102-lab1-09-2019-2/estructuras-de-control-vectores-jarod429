@@ -15,6 +15,15 @@ using std::cout;
 
 int main() {
 
+  for(int i=2;i<8;i++){
+    for(int j=1;j<8;j++){
+      if(j<=i){cout<<j;}
+      else cout<<"*";
+
+    }
+    cout<<"\n";
+  }
+
 
     return 0;
 }
