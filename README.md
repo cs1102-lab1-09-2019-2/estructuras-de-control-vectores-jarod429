@@ -1,9 +1,9 @@
 # Ejercicios Estructuras de Control
 
-Nombre:
+Nombre:William Jarod Rojas Criollo
 --
 
-Github Username:
+Github Username:Jarod429
 --
 
 Instrucciones:
